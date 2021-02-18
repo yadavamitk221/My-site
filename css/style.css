@@ -1,0 +1,102 @@
+a {
+  color: #11999E;
+  font-weight: bold;
+  display: inline-block;
+  margin: 50px 25px 10px 25px;
+  text-decoration: none;
+}
+a:hover{
+  color: #f9f6f7;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 20px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height: 180px;
+  margin-bottom: 0;
+}
+.copy{
+  color: #EAF6F6;
+  font-size: 0.9rem;
+}
+.btn{
+  color: white;
+  padding: 10px;
+  background-color: #66BFBF;
+  border-radius: 5px;
+  margin-bottom: 100px;
+}
+.btn:hover{
+  background-color: #66BFBF;
+  color: #1687a7;
+}
+h1{
+  margin: 70px auto 0 auto;
+  font-family: 'Tangerine', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Heebo', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Heebo', sans-serif;
+  color: #11999E;
+}
+hr{
+  width: 5%;
+  border-top: dotted 7px;
+  color: grey;
+  margin: 100px auto;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chess-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+pro{
+  font-weight: normal;
+}
+p {
+  color: #40514E;
+}
+.photo{
+  width: 20%;
+}
+span{
+  text-decoration: underline;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
